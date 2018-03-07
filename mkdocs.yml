@@ -1,0 +1,5 @@
+site_name: MatterOverdrive Docs
+theme: readthedocs
+
+pages:
+  - Home: 'index.md'
